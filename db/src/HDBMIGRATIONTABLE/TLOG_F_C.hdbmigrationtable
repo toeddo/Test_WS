@@ -2,7 +2,7 @@
 column table "TLOG_F_C" (
  "Index" NVARCHAR(200),
  "ClientID" NVARCHAR(200),
- "Name" NVARCHAR(201),
+ "Name" NVARCHAR(200),
  "Gender" NVARCHAR(200),
  "Birthdate" DATE,
  "Occupation" NVARCHAR(200),
