@@ -5,7 +5,7 @@ column table "TLOG_F_C" (
  "Name" NVARCHAR(200),
  "Gender" NVARCHAR(200),
  "Birthdate" DATE,
- "Occupation" NVARCHAR(201),
+ "Occupation" NVARCHAR(200),
  "City" NVARCHAR(200),
  "City_" NVARCHAR(200),
  "latitude" NVARCHAR(200),
